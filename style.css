@@ -22,6 +22,7 @@ margin:0px;
     width: 100%;
 }
 .banner{
+    padding-bottom: 150px;
     background-image: url(images/top-banner.png);
     height: 500px;
     background-repeat: no-repeat;
@@ -35,8 +36,8 @@ margin:0px;
     font-weight: 700px;
 }
 section{
-    height: 500px;
-    padding-bottom: 200px;
+    height: 600px;
+    
 }
 p{
     color: dimgray;
@@ -45,5 +46,25 @@ p{
     background-image:url(images/dream-bg.png) ;
     background-repeat: no-repeat;
     background-position: right;
-    background-size: 7%;
+}
+.Experiences{
+    width 700;
+}
+.color{
+    color:royalblue;
+}
+.Y{
+    margin: 10px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-size: 40px;
+}
+.extra{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height:fit-content;
+    border-left: 5px solid blue;
+}
+footer p{
+    text-align: center;
 }
