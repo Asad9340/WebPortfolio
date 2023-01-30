@@ -1,15 +1,15 @@
 .highlight{
     color: red;
-    font-size: 40px;
-    font-weight:bolder;
-    
+    font-size: 40px;   
 }
 .cursive{
     font-family: 'Great Vibes', cursive;
+    margin: 15px;
 }
 body{
     font-family: 'Great Vibes', cursive;
-font-family: 'Raleway Dots', cursive;
+    font-family: 'Raleway Dots', cursive;
+margin:0px;
 }
 .dual{
     width: 42%;
@@ -18,6 +18,32 @@ font-family: 'Raleway Dots', cursive;
     padding-left: 2%;
 }
 .dual img{
+    height: 100%;
     width: 100%;
-    padding-left: 10%;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    height: 500px;
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient( red , tomato);
+    padding: 7px 15px ;
+    border-radius: 10px;
+    color:black;
+    font-weight: 700px;
+}
+section{
+    height: 500px;
+    padding-bottom: 200px;
+}
+p{
+    color: dimgray;
+}
+.lowerPart{
+    background-image:url(images/dream-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 7%;
 }
