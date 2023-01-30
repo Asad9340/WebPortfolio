@@ -1,0 +1,23 @@
+.highlight{
+    color: red;
+    font-size: 40px;
+    font-weight:bolder;
+    
+}
+.cursive{
+    font-family: 'Great Vibes', cursive;
+}
+body{
+    font-family: 'Great Vibes', cursive;
+font-family: 'Raleway Dots', cursive;
+}
+.dual{
+    width: 42%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.dual img{
+    width: 100%;
+    padding-left: 10%;
+}
