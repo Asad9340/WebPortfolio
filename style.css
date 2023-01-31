@@ -12,10 +12,10 @@ body{
 margin:0px;
 }
 .dual{
-    width: 40%;
+    width: 38%;
     float: left;
-    margin-left: 5%;
-    padding-left: 2%;
+    margin-left: 3%;
+    padding-left: 1%;
 }
 .dual img{
     width: 100%;
@@ -59,10 +59,10 @@ p{
     background-size: 30px;
 }
 .extra{
-    box-shadow: 5px 5px 20px gray ;
-    border-radius: 10px;
-    height: 220px;
-    border-left: 3px solid blue;
+    box-shadow: 5px 5px 40px gray ;
+    border-radius: 15px;
+    height: 225px;
+    border-left: 1px solid blue;
 }
 footer p{
     text-align: center;
